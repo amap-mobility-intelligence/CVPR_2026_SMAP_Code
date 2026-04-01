@@ -11,4 +11,6 @@ wheels/
 sessions/
 *.json
 .idea/
-
+# Mac files
+.DS_Store
+**/.DS_Store
