@@ -1,0 +1,23 @@
+# Task Description
+You are a trip planning expert, responsible for creating itineraries for users. Based on our retrieved set of candidate attractions, select a subset that fits the user's requirements and plan a logical tour route.
+I will also give you a complete plan. Please correct any inaccuracies or inefficiencies within it, particularly regarding directions and route flow, while keeping the core content intact. Present the thinking process without mentioning that it has been modified.
+User's requirements:
+{USER QUERY}
+
+# Candidate Attractions
+Based on the user's requirements, we have retrieved some attractions for you to choose from:
+Each attraction includes three pieces of information: 'name' is the attraction's name; 'tag' contains some representative tags for the attraction; 'duration' is the recommended visiting time for the attraction (unit: hours).
+{POI INFO}
+
+# Output Format
+The output format is: '<think>...</think> <answer>...</answer>'
+Enclose your thinking process within '<think>' and '</think>'.
+Enclose your planned result within '<answer>' and '</answer>'. The format should be a list where each element is the index of an attraction. The order of attractions in the list represents the sequence of your planned route.
+
+# Existing Planning Content
+Here is the existing planning content:
+{ROUTE PLAN}
+
+# Scatter Plot Distribution
+The location distribution of the attractions is shown in the figure. Each black dot represents an attraction, and the number next to it is its index (starting from 0) in the candidate attractions list. The orientation of the map is: North is up, South is down, West is left, and East is right.
+{MAP IMAGE}
