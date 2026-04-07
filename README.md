@@ -42,7 +42,7 @@
 
 ## 🚀 News
 
-📢 **[2026-04-02]** SMAP is now **open-source**! Check out the repo and get started. 🔥<br>
+📢 **[2026-04-07]** SMAP is now **open-source**! Check out the repo and get started. 🔥<br>
 📢 **[2026-02-21]** SMAP is accepted by **CVPR 2026**! 🎉
 ---
 
