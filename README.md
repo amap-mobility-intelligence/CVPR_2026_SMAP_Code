@@ -4,19 +4,6 @@
   </h2>
 </div>
 
-<div align="cmargin-top: 20px;gin-top: 20px;" style="display:none">
-  <!-- GitHub Badges -->
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/KejiaZhang-Robust/TARS?style=social" style="margin: 0 5px;">
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/KejiaZhang-Robust/TARS?style=social" style="margin: 0 5px;">
-  <a href="https://arxiv.org/abs/2507.21584">
-    <img src="https://img.shields.io/badge/arXiv-2507.21584-b31b1b?style=flat-square" alt="arXiv" style="margin: 0 0px;" />
-  </a>
-  <a href="https://kejiazhang-robust.github.io/tars_web/">
-    <img src="https://img.shields.io/badge/Project Page-TARS-008080?style=flat-square" alt="Project Page" style="margin: 0 5px;">
-  </a>
-  <img alt="GitHub License" src="https://img.shields.io/github/license/KejiaZhang-Robust/TARS?style=flat-square" style="margin: 0 5px;">
-  <img alt="Language" src="https://img.shields.io/github/languages/top/KejiaZhang-Robust/TARS?style=flat-square&color=9acd32" style="margin: 0 5px;">
-</div>
 
 <div align="center" style="margin-top: 30px;">
   <h3 style="font-size: 24px; font-weight: bold; color: #333;">
