@@ -14,7 +14,7 @@
 <!-- LOGO -->
 <div align="center" style="margin-top: 20px;">
   <div>
-    <img src="image/xidian.png" height="100" alt="Amap" style="margin-right: 20px; display: inline-block;">
+    <img src="image/Xidian.png" height="100" alt="Amap" style="margin-right: 20px; display: inline-block;">
     <img src="image/Amap.png" height="100" alt="Xidian" style="margin-right: 20px; display: inline-block;">
   </div>
   <div style="margin-top: 10px; font-size: 14px; color: #666;">
@@ -42,7 +42,7 @@
 
 ## 🚀 News
 
-📢 **[2026-04-02]** SMAP is now **open-source**! Check out the repo and get started. 🔥
+📢 **[2026-04-02]** SMAP is now **open-source**! Check out the repo and get started. 🔥<br>
 📢 **[2026-02-21]** SMAP is accepted by **CVPR 2026**! 🎉
 ---
 
