@@ -24,6 +24,16 @@
   </div>
 </div>
 
+<!-- LINKS -->
+<div align="center" style="margin-top: 25px;">
+  <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_SMAP_Semantic_Route_Planning_with_Map-Grounded_Multimodal_Alignment_CVPR_2026_paper.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Paper-CVPR_2026-blue?style=flat-square" alt="Paper">
+  </a>
+  <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/39788.png?t=1778328849.0405874" target="_blank" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/🖼️_Poster-CVPR_2026-orange?style=flat-square" alt="Poster">
+  </a>
+</div>
+
 ---
 
 ## 📖 Framework
@@ -43,7 +53,7 @@
 ## 🚀 News
 
 📢 **[2026-04-07]** SMAP is now **open-source**! Check out the repo and get started. 🔥<br>
-📢 **[2026-02-21]** SMAP is accepted by **CVPR 2026**! 🎉
+📢 **[2026-02-21]** SMAP is accepted by **CVPR 2026 (poster)**! 🎉
 ---
 
 #  🧪 Quick Start
@@ -90,11 +100,13 @@ For evaluation, we use LLM-as-a-Judge with 5 different metrics. The evaluation p
 If you find our work helpful, please consider citing our paper:
 
 ```
-@article{zhang2025smap,
-  title={SMAP: Semantic Route Planning with Map-Grounded Multimodal Alignment},
-  author={Zhang, Wenjie and Yang, Chen and Lu, Xin and Wang, Zhen and Liu, Yue and Xi, Bobo and Zhang, Pengbo},
-  journal={CVPR 2026},
-  year={2026}
+@InProceedings{Zhang_2026_CVPR,
+    author    = {Zhang, Wenjie and Yang, Chen and Lu, Xin and Wang, Zhen and Liu, Yue and Xi, Bobo and Zhang, Pengbo},
+    title     = {SMAP: Semantic Route Planning with Map-Grounded Multimodal Alignment},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {40108-40118}
 }
 ```
 
